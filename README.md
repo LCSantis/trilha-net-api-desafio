@@ -1,6 +1,11 @@
 # DIO - Trilha .NET - API e Entity Framework
 www.dio.me
 
+## Desafio Concluído
+Após muito estudo e trabalho duro, Desafio Concluído.
+Pude aprender muitas coisas novas, desde .NET e C# (os quais não tinha conhecimento antes) até SQL, SQL Server, como fazer a conenxão com o Banco de Dados, API, 
+Entity Frame Work, MVC... bastante conteúdo adquirido, com suor e muita alegria.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
 
